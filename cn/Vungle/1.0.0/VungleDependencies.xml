@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies><unityversion>2.0.0</unityversion><iosPods><iosPod name="TigerVungleAdapter" version="1.0.0"><sources><source>https://github.com/8AGame/TigerSpec.git</source></sources></iosPod><iosPod name="VungleSDK-iOS" version="6.10.5"><sources><source>https://github.com/CocoaPods/Specs</source></sources></iosPod></iosPods></dependencies>

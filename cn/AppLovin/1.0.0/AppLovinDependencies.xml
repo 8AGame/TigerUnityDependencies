@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies><unityversion>1.0.0</unityversion><iosPods><iosPod name="TigerAppLovinAdapter" version="1.0.0"><sources><source>https://github.com/8AGame/TigerSpec.git</source></sources></iosPod><iosPod name="AppLovinSDK" version="10.3.2"><sources><source>https://github.com/CocoaPods/Specs</source></sources></iosPod></iosPods></dependencies>
