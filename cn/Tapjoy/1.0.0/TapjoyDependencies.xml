@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<dependencies><unityversion>1.0.0</unityversion><iosPods><iosPod name="TigerTapjoyAdapter" version="1.0.0"><sources><source>https://github.com/8AGame/TigerSpec.git</source></sources></iosPod><iosPod name="TapjoySDK" version="12.8.1"><sources><source>https://github.com/CocoaPods/Specs</source></sources></iosPod></iosPods></dependencies>
