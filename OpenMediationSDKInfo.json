@@ -12,10 +12,6 @@
             "iOS":{"version":{"adapter":"1.0.0","sdk":"3.3.12"}},
             "Android":{"version":{"adapter":"2.0.1","sdk":"19.5.0"}},
             "Adapter":{"DownloadUrl":"https://platform.shawgame.com/TigerUnityDependencies/KuaiShou/1.0.0/KuaiShouDependencies.xml","FileName":"KuaiShouDependencies.xml","UnityAdapterVersion":"1.0.0"},"keyname":"KuaiShou"},
-        "Facebook":{
-            "iOS":{"version":{"adapter":"1.0.0","sdk":"6.8.0"}},
-            "Android":{"version":{"adapter":"2.0.0","sdk":"6.2.0"}},
-            "Adapter":{"DownloadUrl":"https://platform.shawgame.com/TigerUnityDependencies/Facebook/1.0.0/FacebookDependencies.xml","FileName":"FacebookDependencies.xml","UnityAdapterVersion":"1.0.0"},"keyname":"Facebook"},
         "UnityAds":{
             "iOS":{"version":{"adapter":"1.0.1","sdk":"4.0.0"}},
             "Android":{"version":{"adapter":"2.0.1","sdk":"3.5.1"}},
